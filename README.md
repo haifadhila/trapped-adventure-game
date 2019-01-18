@@ -1,14 +1,14 @@
 # TRAPPED - GAME
 
 ### TUGAS BESAR IF 2121 LOGIKA INFORMATIKA
-PEMBUATAN SURVIVAL ADVENTURE GAME MENGGUNAKAN GNU PROLOG 
-"TRAPPED" ADVENTURE GAME
+PEMBUATAN SURVIVAL ADVENTURE GAME MENGGUNAKAN GNU PROLOG
+***"TRAPPED" ADVENTURE GAME***
 
 ### OLEH:
-Dinda Yora Islami/13516067 
-Haifa Fadhila Ilma/13516076 
-I Kadek Yuda Budipratama Giri/13516115 
-Nadija Herdwina P. S./13516130 
+- Dinda Yora Islami/13516067
+- Haifa Fadhila Ilma/13516076
+- I Kadek Yuda Budipratama Giri/13516115
+- Nadija Herdwina P. S./13516130 
 
 ### Eksekusi program: 
 - Doubleclick pada source code
